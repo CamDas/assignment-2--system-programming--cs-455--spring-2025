@@ -23,6 +23,8 @@ int a[SIZE] = {2, 6, 4, 8, 10, 12, 89, 68, 45, 37};
 
 The behavior of your program and its output should [look like this](https://roy.vanegas.org/video/cs-455--assignment-2--program-1.mp4)
 
+---
+
 For the second, you’ll be writing a grade reporting program using the following 2-dimensional array.
 
 ```c
