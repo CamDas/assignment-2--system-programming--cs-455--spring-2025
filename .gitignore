@@ -5,3 +5,5 @@
 !Makefile
 !01--print-horizontal-histogram-of-length-of-words-using-function-pointers.c
 !02--arrays-of-function-pointers.c
+.idea
+CMakelist
